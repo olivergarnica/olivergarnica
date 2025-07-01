@@ -2,7 +2,7 @@ Hi
 I am Oliver Garnica, an undergrad at the University of Michigan.
 
 -  I’m interested in algorithmic trading along with learning how to apply mathematical and statistical modeling.
--  I am currently building an options pricing page that informs of different models and how they work.
+-  I am currently building a personalized backtester and a database for youtube channel information.
 -  How to reach me: olivermgarnica@gmail.com
 
 
